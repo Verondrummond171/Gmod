@@ -3,7 +3,7 @@ import socket
 
 def detect():
 Search.device freefire
-def install ():
+def install (): 
 install= mod.game
 class mod.game():
 //when installing pull requests=hack.diamond
@@ -21,6 +21,9 @@ def coin():
 for C in coin(validate.find player=1000000)
 validate.self unlimited coin
 send.coin=player
+input(enter you email)
+check.email=search(SMTP)
+send.email self.email
 
 
 
